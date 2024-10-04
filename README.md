@@ -55,15 +55,6 @@ cs.png)
   - Pandas
   - NumPy
 
-## 🚀 Como Usar
-
-```bash
-# Instalar dependências
-pip install -r requirements.txt
-
-# Executar o dashboard
-streamlit run dashboard.py
-```
 
 ## 📈 Benefícios
 
